@@ -9,46 +9,46 @@
       "description": "Якщо браузер не може завантажити малюнок, цей текст буде відображатися замість нього. Також використовується допоміжними технологіями"
     },
     {
-      "label": "Hotspot Icon",
+      "label": "Піктограма Hotspot",
       "options": [
         {
-          "label": "Predefined icon"
+          "label": "Піктограма попередньо визначена"
         },
         {
-          "label": "Uploaded image"
+          "label": "Завантажено зображення"
         }
       ]
     },
     {
-      "label": "Predefined icon",
-      "description": "Using a predefined icon for the hotspot.",
+      "label": "Піктограма попередньо визначена",
+      "description": "Використання попередньо визначеної піктограми для hotspot.",
       "options": [
         {
-          "label": "Plus"
+          "label": "Більше"
         },
         {
-          "label": "Minus"
+          "label": "Менше"
         },
         {
-          "label": "Times"
+          "label": "Час"
         },
         {
-          "label": "Check"
+          "label": "Перевірити"
         },
         {
-          "label": "Question"
+          "label": "Питання"
         },
         {
-          "label": "Info"
+          "label": "Інформація"
         },
         {
-          "label": "Exclamation"
+          "label": "Вигук"
         }
       ]
     },
     {
-      "label": "Uploaded image",
-      "description": "Use your own image for the hotspot icon.<br>75px by 75px is recommended for your image."
+      "label": "Завантажено зображення",
+      "description": "Використовуйте власне зображення для піктограми точки доступу. <br>Рекомендується для вашого зображення 75px на 75px."
     },
     {
       "label": "Колір мітки",
